@@ -5,7 +5,7 @@
       {
         "appID": "6PXR67L4JB.com.futurefleet.PandaBusHuaiAn",
         "paths": [
-          "*"
+          "/app/*"
         ]
       }
     ]
